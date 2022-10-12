@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Airpods",
+      "price": 10.99,
+      "imgUrl": "/images/airpod.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Alexa",
+      "price": 1199,
+      "imgUrl": "/images/alexa.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch",
+      "price": 1.05,
+      "imgUrl": "/images/applewatch.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Camera",
+      "price": 14000,
+      "imgUrl": "/images/camera.jpg"
+    }
+  ]
